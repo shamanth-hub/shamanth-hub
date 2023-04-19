@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shamanth Shetty
 - 👀 I’m interested in solving problems by thinking out of the box
-- 🌱 I’m currently learning Business and Engineering 
+- 🌱 I’m currently enrolled in International Business and Engineering at Technical University of Applied Sciences Würzburg-Schweinfurt
 - 💞️ I’m  open to collaborate with anyone interested in building and solving problems
 - 📫 How to reach me :- shamanthshetty007@gmail.com
 
